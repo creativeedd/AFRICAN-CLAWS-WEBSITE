@@ -30,7 +30,7 @@
 
         header {
             background: linear-gradient(135deg, var(--primary), var(--secondary));
-            color: white;
+            color: grey;
             padding: 1rem 0;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
             position: sticky;
